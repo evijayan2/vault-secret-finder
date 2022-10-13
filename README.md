@@ -21,7 +21,8 @@ brew install vault-secret-finder
 
 `vault-secret-finder --help`
 
-```Vault Secret Finder to search/list the vault org.
+```
+Vault Secret Finder to search/list the vault org.
 
 Usage:
   vault-secret-finder [flags]
@@ -39,7 +40,8 @@ Flags:
       --org string          Vault Org (required)
   -a, --vault-addr string   Vault Address (required)
 
-Use "vault-secret-finder [command] --help" for more information about a command.```
+Use "vault-secret-finder [command] --help" for more information about a command.
+```
 
 ### To list all secrets & key/value from the Vault ORG
 
