@@ -6,8 +6,9 @@ Currently we find data from KV1/Legacy vault format.
 
 ## Install in Mac using brew
 
-brew tap evijayan2/vault-secret-finder
-brew install vault-secret-finder
+`brew tap evijayan2/vault-secret-finder`
+
+`brew install vault-secret-finder`
 
 ## Prerequsite
 
